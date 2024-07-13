@@ -53,11 +53,6 @@ export const data = [
         "href": "/useoptimistic-example"
     },
 
-    {
-        "heading": "useTransition Example",
-        "text": "Use the useTransition hook to show a message before the server responds",
-        "href": "/usetransition-example"
-    },
-
+  
      
 ]
