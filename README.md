@@ -1,8 +1,16 @@
-# React + Vite
+# React 19
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is utilized for exploring new features in React 19, including experimental hooks. It uses the experimental version of React and is for testing and learning only.
 
-Currently, two official plugins are available:
+<img src="https://iili.io/dB91lEJ.png" alt="React 19" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+To get started, clone the repository and run the following commands:
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:3000 to view the app in the browser.
